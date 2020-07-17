@@ -3,8 +3,8 @@ This is Itenrn with Rikkei
 
 ## ✨ Description
 Intern at RikkeiSoft
-Mobile Developer
-
+-Mobile Developer
+-7/2020
 ## 📸 
 <div style="background-color:rgb(169,169,169); text-align:center">
 <img src="image/rikkei.jpg" width="300" style="border-radius: 15px">
