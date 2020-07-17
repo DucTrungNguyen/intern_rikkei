@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fragment_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+<!--    <fragment-->
+<!--        android:name="com.rikkei.tranning.activity.AFragment"-->
+<!--        android:id="@+id/AFragment"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="150dp"/>-->
+    <Button
+        android:text="Go to Fragement B"
+        android:id="@+id/btnGoToB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
