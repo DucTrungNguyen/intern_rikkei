@@ -1,5 +1,5 @@
 # intern_rikkei
-This is Itenrn with Rikkei
+This is an internship with Rikkei
 
 ## ✨ Description
 Intern at RikkeiSoft
@@ -12,5 +12,5 @@ Intern at RikkeiSoft
 ## 🤓 Mentor(s)
 **Tieu Nhi- Bui Huu Viet**
 
-## 🤓 Author(s)
+## 🤓 Author
 **Nguyen Duc Trung**
