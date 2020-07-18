@@ -8,4 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+    // start Activity is MainSActivity
+    // this activity have never used
 }
